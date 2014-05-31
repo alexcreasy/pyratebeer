@@ -52,3 +52,9 @@ coverage.xml
 # Sphinx documentation
 docs/_build/
 
+# General OS created junk
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+
